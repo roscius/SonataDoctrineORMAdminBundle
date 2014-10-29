@@ -51,4 +51,4 @@ Next, be sure to enable the bundle in your `AppKernel.php` file:
 .. note::
 
     Don't forget that, as part of `SonataAdminBundle's installation instructions <http://sonata-project.org/bundles/admin/master/doc/reference/installation.html>`_,
-    you need to enable additional bundles on `AppKernel.php`.
+    you need to enable additional bundles in `AppKernel.php`.
